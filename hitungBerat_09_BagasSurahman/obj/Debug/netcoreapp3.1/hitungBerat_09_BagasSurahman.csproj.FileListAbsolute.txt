@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\bin\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.exe
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\bin\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.deps.json
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\bin\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.runtimeconfig.json
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\bin\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\bin\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.dll
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\bin\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.pdb
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\bin\Debug\netcoreapp3.1\beratIdeal_09_BagasSurahman.dll
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\bin\Debug\netcoreapp3.1\beratIdeal_09_BagasSurahman.pdb
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\obj\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\obj\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\obj\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.AssemblyInfo.cs
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\obj\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\obj\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.csproj.CopyComplete
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\obj\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.dll
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\obj\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.pdb
+C:\Users\Acer\source\repos\hitungBerat_09_BagasSurahman\hitungBerat_09_BagasSurahman\obj\Debug\netcoreapp3.1\hitungBerat_09_BagasSurahman.genruntimeconfig.cache

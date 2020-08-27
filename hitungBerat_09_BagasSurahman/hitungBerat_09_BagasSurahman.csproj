@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="beratIdeal_09_BagasSurahman">
+      <HintPath>..\..\beratIdeal_09_BagasSurahman\beratIdeal_09_BagasSurahman\obj\Debug\netstandard2.0\beratIdeal_09_BagasSurahman.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
