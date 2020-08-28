@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g7mAwmE3fsCn1OGoDe9VxzJBhotnR22NdsV3/csoIzxArC0RE8EQ68FKkOSFE7bdR7qHeBFewiofSMDCSLYBWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\beratIdeal_09_BagasSurahman\\beratIdeal_09_BagasSurahman\\beratIdeal_09_BagasSurahman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

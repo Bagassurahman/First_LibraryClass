@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\beratIdeal_09_BagasSurahman\beratIdeal_09_BagasSurahman\bin\Debug\netstandard2.0\beratIdeal_09_BagasSurahman.deps.json
+C:\Users\Acer\source\repos\beratIdeal_09_BagasSurahman\beratIdeal_09_BagasSurahman\bin\Debug\netstandard2.0\beratIdeal_09_BagasSurahman.dll
+C:\Users\Acer\source\repos\beratIdeal_09_BagasSurahman\beratIdeal_09_BagasSurahman\bin\Debug\netstandard2.0\beratIdeal_09_BagasSurahman.pdb
+C:\Users\Acer\source\repos\beratIdeal_09_BagasSurahman\beratIdeal_09_BagasSurahman\obj\Debug\netstandard2.0\beratIdeal_09_BagasSurahman.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\beratIdeal_09_BagasSurahman\beratIdeal_09_BagasSurahman\obj\Debug\netstandard2.0\beratIdeal_09_BagasSurahman.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\beratIdeal_09_BagasSurahman\beratIdeal_09_BagasSurahman\obj\Debug\netstandard2.0\beratIdeal_09_BagasSurahman.AssemblyInfo.cs
+C:\Users\Acer\source\repos\beratIdeal_09_BagasSurahman\beratIdeal_09_BagasSurahman\obj\Debug\netstandard2.0\beratIdeal_09_BagasSurahman.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\beratIdeal_09_BagasSurahman\beratIdeal_09_BagasSurahman\obj\Debug\netstandard2.0\beratIdeal_09_BagasSurahman.dll
+C:\Users\Acer\source\repos\beratIdeal_09_BagasSurahman\beratIdeal_09_BagasSurahman\obj\Debug\netstandard2.0\beratIdeal_09_BagasSurahman.pdb
